@@ -53,9 +53,9 @@ Blending backend logic with data insights is my current playground 🧠💻
 
 ## 📈 GitHub Stats
 
-![Dre's GitHub stats](https://github-stats-extended.vercel.app/api?username=ARGS-PHY&show_icons=true&theme=radical)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ARGS-PHY&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=ARGS-PHY&theme=radical)
+![Dre's GitHub stats](https://github-stats-extended.vercel.app/api?username=ARGS-PYH&show_icons=true&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ARGS-PYH&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ARGS-PYH&theme=radical)
 
 ---
 
