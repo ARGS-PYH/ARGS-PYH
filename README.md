@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile 👨🏽‍💻
 I’m a **Backend Developer** with a growing passion for **Data Science** and **Machine Learning**.
-I work primarily with **Django REST Framework**, and I’m constantly leveling up my skills as I build real-world projects.
+I work primarily with **Django REST Framework**, and I’m constantly leveling up my skills as I build real world projects.
+this is a hobby I enjoy anytime I am less busy 
 
 ---
 
